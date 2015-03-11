@@ -1,0 +1,11 @@
+Buildfile: C:\Projects\GitHub\ChainableCustomWidget\test\deployment\build_webui.xml
+
+deploy:
+    [unzip] Expanding: C:\Projects\GitHub\ChainableCustomWidget\test\widgets\ChainableWidget.mpk into C:\Projects\GitHub\ChainableCustomWidget\test\deployment\web\widgets
+    [unzip] Expanding: C:\Projects\GitHub\ChainableCustomWidget\test\widgets\SprintrFeedbackWidget.mpk into C:\Projects\GitHub\ChainableCustomWidget\test\deployment\web\widgets
+     [copy] Copying 365 files to C:\Projects\GitHub\ChainableCustomWidget\test\deployment\web
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+

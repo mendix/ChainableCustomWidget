@@ -1,0 +1,9 @@
+Buildfile: C:\Projects\GitHub\ChainableCustomWidget\test\deployment\build_core.xml
+
+deploy:
+    [unzip] Expanding: C:\Program Files (x86)\Mendix\5.14.0\modeler\deployment.mxz into C:\Projects\GitHub\ChainableCustomWidget\test\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

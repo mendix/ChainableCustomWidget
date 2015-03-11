@@ -1,0 +1,201 @@
+/*
+
+*/
+
+.version.index /* version checker */
+{
+	color: #0000FC;
+	background-color: #B9DB7B;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/wallpaper.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 623px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 127px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u207
+{
+	z-index: 26;
+	width: 25px;
+	min-height: 25px;
+	margin-right: -10000px;
+	left: -100px;
+}
+
+#ppu85
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 143px;
+	margin-left: 192px;
+}
+
+#pu85
+{
+	z-index: 6;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u85
+{
+	z-index: 0;
+	width: 640px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu86
+{
+	width: 0.01px;
+	position: relative;
+	z-index: 2;
+}
+
+#u86
+{
+	z-index: 7;
+	width: 201px;
+	margin-right: -10000px;
+	padding: 71px 18px 31.350000000000023px 19px;
+}
+
+#u143
+{
+	z-index: 24;
+	width: 136px;
+	margin-left: 32px;
+}
+
+#u99-6
+{
+	z-index: 8;
+	width: 201px;
+	min-height: 69px;
+	left: -1px;
+	margin-top: 216px;
+}
+
+#pu114-6
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 71px;
+	margin-left: 252px;
+}
+
+#u114-6
+{
+	z-index: 18;
+	width: 282px;
+	min-height: 43px;
+	margin-left: 27px;
+}
+
+#u173
+{
+	z-index: 27;
+	width: 330px;
+	min-height: 310px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u213-4
+{
+	z-index: 2;
+	width: 164px;
+	min-height: 26px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 20px;
+}
+
+#u102-4
+{
+	z-index: 14;
+	width: 89px;
+	min-height: 16px;
+	margin-right: -10000px;
+	margin-top: 449px;
+	left: 138px;
+}
+
+#u179
+{
+	z-index: 28;
+	width: 136px;
+	background-color: transparent;
+	position: fixed;
+	bottom: 71px;
+	right: 100px;
+}
+
+@font-face
+{
+	font-family: '__Open Sans_5';
+	src: url('../fonts/opensans-lightitalic-webfont.eot');
+	src: local('☺'), url('../fonts/opensans-lightitalic-webfont.woff') format('woff'), url('../fonts/opensans-lightitalic-webfont.svg') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face
+{
+	font-family: '__Open Sans_5';
+	src: url('../fonts/opensans-regular-webfont.eot');
+	src: local('☺'), url('../fonts/opensans-regular-webfont.woff') format('woff'), url('../fonts/opensans-regular-webfont.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Open Sans_5';
+	src: url('../fonts/opensans-light-webfont.eot');
+	src: local('☺'), url('../fonts/opensans-light-webfont.woff') format('woff'), url('../fonts/opensans-light-webfont.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__GLYPHICONS Halflings_5';
+	src: url('../fonts/glyphicons-halflings-regular.eot');
+	src: local('☺'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
