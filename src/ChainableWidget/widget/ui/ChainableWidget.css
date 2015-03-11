@@ -1,0 +1,90 @@
+/* =======================================================
+   Base
+   ======================================================= */
+.chainablewidget-open{
+    display: block;
+}
+.chainable-dropdown-menu{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2000;
+}
+
+/* =======================================================
+   Dropdown Template
+   ======================================================= */
+.chainable-dropdown-template{
+    position: relative;
+    width: 300px;
+    height: 70px;
+    vertical-align: middle;
+}
+.chainable-dropdown-template .image{
+    float: left;
+    width: 120px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    vertical-align: middle;
+    height: 70px;
+}
+.chainable-dropdown-template .body{
+    float: left;
+    left: 120px;
+    right: 0;
+    top: 0;
+    position: absolute;
+    vertical-align: middle;
+    height: 70px;
+}
+.chainable-div:hover{
+    background-color: rgb(232, 232, 232);
+    background-image: linear-gradient(rgb(245, 245, 245) 0px, rgb(232, 232, 232) 100%);
+}
+.chainable-div{
+    -webkit-backface-visibility: hidden;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-duration: 0.25s;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: ease;
+    backface-visibility: hidden;
+    background-repeat: repeat-x;
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(38, 38, 38);
+    display: block;
+    font-family: 'open_sansregular';
+    font-size: 14px;
+    font-weight: normal;
+    height: 76px;
+    line-height: 20px;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    outline-color: rgb(38, 38, 38);
+    outline-style: none;
+    outline-width: 0px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    text-align: left;
+    text-decoration: none;
+    transition-delay: 0s;
+    transition-duration: 0.25s;
+    transition-property: all;
+    transition-timing-function: ease;
+    white-space: nowrap;
+    width: 340px;
+}
+.btn.chainablewidget-disabled{
+    background-color: #F9F9FB;
+    border-color: #efeff2;
+    cursor: default;
+}
+.btn.chainablewidget-disabled:hover{
+    background-color: #F9F9FB;
+    border-color: #efeff2;
+    cursor: default;
+}

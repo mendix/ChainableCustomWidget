@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HTMLWidget name="Mendix.Content.Container" formatNumber="3"
+            localization="none" creator="Gerhard Richard Edens" 
+            defaultWidth="100%" defaultHeight="100%" 
+            isResizable="true">
+    <parameters>
+        <text name="postfix" label="Login name:" defaultValue="-rtl" />
+        <separator/>
+        <info label="Postfix to eighter load the index.html or the index-rtl.html."/>
+    </parameters>
+    <headHTML>
+        <![CDATA[
+		<link rel="stylesheet" href="assets/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/bootstrap-theme.min.css">
+		<script src="assets/jquery-1.11.2.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="assets/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="mxclientsystem/mxui/ui/mxui.css">
+        <link rel="stylesheet" href="assets/theme.css">
+        ]]>
+    </headHTML>
+    <pageItemHTML>
+        <![CDATA[
+        <script>
+			/* Create Mendix Content Div */
+			var contentDiv = $('<div></div>');
+			$(contentDiv).attr('id', 'content');
+			$('body').append(contentDiv);
+		</script>
+		<script>
+            dojoConfig = {
+                rtlRedirect: "index{param_postfix}.html",
+                baseUrl: "mxclientsystem/dojo/"
+            };
+        </script>
+        <script src="mxclientsystem/mxui/mxui.js"></script>
+        ]]>
+    </pageItemHTML>
+</HTMLWidget>

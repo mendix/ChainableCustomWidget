@@ -1,0 +1,47 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425626677303">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_b-master.css" crc="46554418" ref="index"/>
+    <file name="index.css" crc="4240038779" ref="index"/>
+    <file name="index-rtl.css" crc="4210719681" ref="index-rtl"/>
+    <file name="index3.css" crc="4163717774" ref="index3"/>
+  </folder>
+  <folder name="fonts">
+    <file name="opensans-light-webfont.woff" crc="262045698"/>
+    <file name="opensans-light-webfont.eot" crc="4091548421"/>
+    <file name="opensans-light-webfont.svg" crc="223690757"/>
+    <file name="opensans-regular-webfont.woff" crc="4116118084"/>
+    <file name="opensans-regular-webfont.eot" crc="3885241880"/>
+    <file name="opensans-regular-webfont.svg" crc="426594747"/>
+    <file name="opensans-lightitalic-webfont.woff" crc="3813913375"/>
+    <file name="opensans-lightitalic-webfont.eot" crc="4119520443"/>
+    <file name="opensans-lightitalic-webfont.svg" crc="13084837"/>
+    <file name="glyphicons-halflings-regular.woff" crc="3817615277"/>
+    <file name="glyphicons-halflings-regular.eot" crc="182297980"/>
+    <file name="glyphicons-halflings-regular.svg" crc="3784021819"/>
+  </folder>
+  <folder name="assets">
+    <file name="theme.css" crc="4175973119" mt="1425570420000"/>
+    <file name="signin.png" crc="365873113" mt="1425549150000"/>
+    <file name="login_mendix.css" crc="4177921256" mt="1425560289000"/>
+    <file name="bootstrap.min.js" crc="4022853508" mt="1421654602000"/>
+    <file name="bootstrap.min.css" crc="4191148336" mt="1425561789000"/>
+    <file name="bootstrap-theme.min.css" crc="310387562" mt="1425567855000"/>
+    <file name="jquery-1.11.2.min.js" crc="4263741383" mt="1425562797000"/>
+    <file name="bootstrap.css.map" crc="4209816271" mt="1421652740000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:index3:index-rtl"/>
+    <file name="museutils.js" crc="479751881" ref="index:index3:index-rtl"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:index3:index-rtl"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="index:index3:index-rtl"/>
+  </folder>
+  <folder name="images">
+    <file name="wallpaper.jpg" crc="375643245" ref="index:index3:index-rtl"/>
+    <file name="logo.png" crc="26535939" ref="index"/>
+    <file name="mendix.png" crc="306960282" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4096315032" mt="1425626668266" redirect="true"/>
+  <file name="index3.html" crc="3931943968" mt="1425563704582" redirect="true"/>
+  <file name="index-rtl.html" crc="4072713569" mt="1425563704582" redirect="true"/>
+</manifest>

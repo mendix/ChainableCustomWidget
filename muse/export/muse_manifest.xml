@@ -1,0 +1,37 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425559718734">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_b-master.css" crc="506794725" ref="index"/>
+    <file name="index.css" crc="505825718" ref="index"/>
+    <file name="index-rtl.css" crc="4281836483" ref="index-rtl"/>
+    <file name="index3.css" crc="29830121" ref="index3"/>
+  </folder>
+  <folder name="fonts">
+    <file name="opensans-light-webfont.woff" crc="262045698"/>
+    <file name="opensans-light-webfont.eot" crc="4091548421"/>
+    <file name="opensans-light-webfont.svg" crc="223690757"/>
+    <file name="opensans-regular-webfont.woff" crc="4116118084"/>
+    <file name="opensans-regular-webfont.eot" crc="3885241880"/>
+    <file name="opensans-regular-webfont.svg" crc="426594747"/>
+  </folder>
+  <folder name="assets">
+    <file name="theme.css" crc="128251408" mt="1425386233000"/>
+    <file name="signin.png" crc="365873113" mt="1425549150000"/>
+    <file name="login_mendix.css" crc="4023224309" mt="1419211550000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:index3:index-rtl"/>
+    <file name="museutils.js" crc="479751881" ref="index:index3:index-rtl"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:index3:index-rtl"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u101.png" crc="3971636844" ref="index"/>
+    <file name="wallpaper.jpg" crc="375643245" ref="index:index3:index-rtl"/>
+    <file name="logo.png" crc="26535939" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3854454860" mt="1425559174269" redirect="true"/>
+  <file name="index3.html" crc="4056784973" mt="1425559655570" redirect="true"/>
+  <file name="index-rtl.html" crc="199451827" mt="1425559692015" redirect="true"/>
+</manifest>

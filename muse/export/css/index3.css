@@ -1,0 +1,56 @@
+.version.index3 /* version checker */
+{
+	color: #000001;
+	background-color: #C72BE9;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/wallpaper.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 1024px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u171
+{
+	z-index: 2;
+	min-height: 1024px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u171-bw
+{
+	z-index: 2;
+	min-height: 1024px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

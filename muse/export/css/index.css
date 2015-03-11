@@ -1,0 +1,136 @@
+/*
+
+*/
+
+.version.index /* version checker */
+{
+	color: #00001E;
+	background-color: #2649B6;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/wallpaper.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 641px;
+	min-height: 481px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 135px 191px 134px 192px;
+}
+
+#u85
+{
+	z-index: 2;
+	width: 639px;
+}
+
+#u86
+{
+	z-index: 3;
+	width: 220px;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+	padding: 71px 10px 15.350000000000023px 8px;
+}
+
+#u143
+{
+	z-index: 19;
+	width: 136px;
+	margin-left: 43px;
+}
+
+#u99-6
+{
+	z-index: 4;
+	width: 201px;
+	min-height: 69px;
+	margin-top: 193px;
+}
+
+#u101
+{
+	z-index: 10;
+	width: 220px;
+	height: 2px;
+	margin-top: 11px;
+}
+
+#u102-4
+{
+	z-index: 11;
+	width: 89px;
+	min-height: 16px;
+	margin-left: 130px;
+	margin-top: 10px;
+}
+
+#pu114-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 70px;
+	margin-left: 277px;
+}
+
+#u114-4
+{
+	z-index: 15;
+	width: 178px;
+	min-height: 43px;
+	margin-left: 1px;
+}
+
+#u155
+{
+	z-index: 21;
+	width: 328px;
+	min-height: 286px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 9px;
+	position: relative;
+}
+
+@font-face
+{
+	font-family: '__Open Sans_5';
+	src: url('../fonts/opensans-light-webfont.eot');
+	src: local('☺'), url('../fonts/opensans-light-webfont.woff') format('woff'), url('../fonts/opensans-light-webfont.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Open Sans_5';
+	src: url('../fonts/opensans-regular-webfont.eot');
+	src: local('☺'), url('../fonts/opensans-regular-webfont.woff') format('woff'), url('../fonts/opensans-regular-webfont.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

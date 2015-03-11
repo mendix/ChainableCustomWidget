@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HTMLWidget name="Mendix.Bootstrap" formatNumber="3"
+            localization="none" creator="Gerhard Richard Edens" 
+            defaultWidth="25" defaultHeight="25" 
+            isResizable="true">
+    <parameters>
+    </parameters>
+    <headHTML>
+        <![CDATA[
+		<link rel="stylesheet" href="assets/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/bootstrap-theme.min.css">
+		<script src="assets/jquery-1.11.2.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="assets/bootstrap.min.js"></script>
+        ]]>
+    </headHTML>
+</HTMLWidget>
