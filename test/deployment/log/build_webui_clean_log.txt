@@ -1,4 +1,4 @@
-Buildfile: C:\Projects\ChainableWidgetPackage\test\deployment\build_webui.xml
+Buildfile: C:\Projects\GitHub\ChainableCustomWidget\test\deployment\build_webui.xml
 
 clean:
 
